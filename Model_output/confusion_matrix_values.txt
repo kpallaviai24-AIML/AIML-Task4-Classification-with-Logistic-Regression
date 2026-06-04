@@ -1,0 +1,6 @@
+CONFUSION MATRIX
+
+True Negative : 71
+False Positive: 1
+False Negative: 3
+True Positive : 39
